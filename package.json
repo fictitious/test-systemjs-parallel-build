@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+      "systemjs-builder": "^0.14.10"
+  }
+}
